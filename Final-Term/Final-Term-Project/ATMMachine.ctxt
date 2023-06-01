@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ATMMachine
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ displayHeads()
+comment3.params=
+comment3.target=void\ displayTransactions()
+comment4.params=
+comment4.target=void\ setChoice()
+comment5.params=
+comment5.target=void\ retryChoice()
+comment6.params=
+comment6.target=void\ keyDeposit()
+comment7.params=
+comment7.target=void\ keyWithdraw()
+comment8.params=
+comment8.target=void\ keyBalance()
+numComments=9

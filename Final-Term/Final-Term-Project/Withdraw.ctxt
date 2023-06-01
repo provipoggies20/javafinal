@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Withdraw
+comment1.params=wit
+comment1.target=void\ setWithdraw(double)
+comment2.params=
+comment2.target=double\ getWithdraw()
+numComments=3

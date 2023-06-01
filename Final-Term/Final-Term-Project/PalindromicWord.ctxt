@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PalindromicWord
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ setPal()
+comment3.params=
+comment3.target=void\ TestPalindromicWord()
+numComments=4

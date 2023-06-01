@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ExtractingDigits
+comment1.params=
+comment1.target=void\ inputDigits()
+comment2.params=
+comment2.target=java.lang.Integer\ getDigits()
+comment3.params=
+comment3.target=void\ revOrder()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

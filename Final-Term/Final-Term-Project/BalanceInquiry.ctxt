@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BalanceInquiry
+comment1.params=bal
+comment1.target=void\ setBalance(double)
+comment2.params=
+comment2.target=double\ getBalance()
+numComments=3

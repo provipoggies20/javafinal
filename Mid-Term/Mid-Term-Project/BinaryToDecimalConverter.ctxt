@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BinaryToDecimalConverter
+comment1.params=
+comment1.target=BinaryToDecimalConverter()
+comment2.params=
+comment2.target=void\ setBinary()
+comment3.params=
+comment3.target=void\ tryContinue()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

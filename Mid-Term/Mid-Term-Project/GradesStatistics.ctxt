@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GradesStatistics
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ readGrades()
+comment3.params=
+comment3.target=double\ average()
+comment4.params=
+comment4.target=java.lang.Integer\ min()
+comment5.params=
+comment5.target=java.lang.Integer\ max()
+comment6.params=
+comment6.target=double\ stdDev()
+numComments=7

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=HealthChecker
+comment1.params=
+comment1.target=void\ mainMenu()
+comment2.params=
+comment2.target=void\ setChoice()
+comment3.params=
+comment3.target=void\ directChoice()
+comment4.params=
+comment4.target=void\ setName()
+comment5.params=
+comment5.target=void\ setDrink()
+comment6.params=
+comment6.target=void\ setCaffeine()
+comment7.params=
+comment7.target=void\ computeCaffeine()
+comment8.params=
+comment8.target=void\ setPrint()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

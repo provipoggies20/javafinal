@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Deposit
+comment1.params=dep
+comment1.target=void\ setDeposit(double)
+comment2.params=
+comment2.target=double\ getDeposit()
+numComments=3

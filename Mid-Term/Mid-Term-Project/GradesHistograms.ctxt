@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GradesHistograms
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=grade
+comment2.target=boolean\ checkGrade(int)
+comment3.params=filename
+comment3.target=void\ readGrades(java.lang.String)
+comment4.params=
+comment4.target=void\ computeHistogram()
+comment5.params=
+comment5.target=void\ printHistogramHorizontal()
+comment6.params=
+comment6.target=void\ printHistogramVertical()
+comment7.params=
+comment7.target=void\ printGrades()
+comment8.params=
+comment8.target=void\ printBins()
+numComments=9
